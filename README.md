@@ -13,3 +13,18 @@ I also run my own segmented home infrastructure: rootless Podman services on Cen
 Maybe I will publish some gists with some of my learnings and scripts I used.
 
 📫 [LinkedIn](https://www.linkedin.com/in/jeremy-mank/) · git@nonjerry.de
+
+## Contact
+
+Encrypted emails are welcome.
+
+| Address | Fingerprint |
+|---|---|
+| business@nonjerry.de | `CA81 3532 0A47 749B 9A90 F66A 0C8B 8DFD FA90 3084` |
+| git@nonjerry.de | `1AB2 5630 0C33 77B7 5239 8C2F 9379 5A4B F331 E4F5` |
+
+Get the keys:
+- automatically via WKD (e.g. Thunderbird, GnuPG: `gpg --locate-keys git@nonjerry.de`)
+- [keys.openpgp.org](https://keys.openpgp.org/search?q=me@nonjerry.de)
+
+Please verify the fingerprint before sending sensitive information.
